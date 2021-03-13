@@ -2,7 +2,7 @@
 //2019-09-26
 //www.seckin.co
 //Seçkin Durası 
-//https://github.com/durasi/PHPKutuphanesi
+//https://github.com/durasi/Seckin-PHP-Library
 
 	$algilananurl=$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'];
 	$kural = $algilananurl;
