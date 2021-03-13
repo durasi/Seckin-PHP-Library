@@ -2,7 +2,7 @@
 //2021-03-13
 //www.seckin.co
 //Seçkin Durası 
-//https://github.com/durasi/PHP-Kutuphanesi
+//https://github.com/durasi/Seckin-PHP-Library
 -->
 
 <?
