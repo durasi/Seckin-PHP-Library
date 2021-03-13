@@ -1,2 +1,2 @@
 # SeckinPHPLibrary
-Herkesin faydalanması için PHP kütüphanemi paylaşıyorum.
+I share my PHP library for everyone to use.
