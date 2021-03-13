@@ -2,7 +2,7 @@
 //2019-09-26
 //www.seckin.co
 //Seçkin Durası 
-//https://github.com/durasi/PHPKutuphanesi
+//https://github.com/durasi/Seckin-PHP-Library
 
     if(!isset($_GET['resolution'])) {     
         echo "<script language=\"JavaScript\">     
